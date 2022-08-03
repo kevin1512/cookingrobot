@@ -50,9 +50,12 @@
             </div><!-- row -->
 
             <div class="form-layout-footer">
-              <button class="btn btn-info" id="update" style='width:100px;margin:0 50%;position:relative;left:-50px;'>UPDATE</button>
+              <button class="btn btn-info btn-dark" id="update" style='width:100px;margin:0 50%;position:relative;left:-50px;'>UPDATE</button>
             </div><!-- form-layout-footer -->
           </div>
+          <div class="form-layout-footer">
+              <button class="btn btn-info btn-dark" style='margin:0 50%;position:relative;left: -95px;px;'><a href="ingredients.php"; style="color: white";>Add New Ingredient</a></button>
+            </div>
           </div>
       
 </body>
